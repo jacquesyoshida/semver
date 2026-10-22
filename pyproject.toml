@@ -1,6 +1,6 @@
 [project]
 name = "semver"
-version = "0.1.1"
+version = "0.1.2"
 description = "Parse, compare and sort semantic versions including prereleases."
 requires-python = ">=3.10"
 dependencies = []
